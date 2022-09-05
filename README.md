@@ -3,7 +3,7 @@
 
 The customer decommissioning process is the last phase in the life cycle of a customer system and is the permanent removal of an IT service or any other configuration item, from the live customer environment. The purpose of decommissioning process is to provide a structured and standardized way to decommission system/server and network and to facilitate transparency on the decommission process globally.
 
-Decommissioning involves the deactivation of the customer system/tenant performed by the responsible decommissioning personnel upon the customer contract end date or system end date and confirmation provided by the customer to decommission their system. Customer data is provided to them prior to decommissioning upon customer request and the data retention period of 30 days is applicable in case the customer requests data post decommissioning their systems.
+Decommissioning involves the deactivation of the customer system/tenant performed by the responsible decommissioning personnel upon the customer contract end date or system end date and confirmation provided by the customer to decommission their system. 
 
 The project aims at performing key driver analysis affecting delays using the Mean Time to Resolve (MTTR) of the tickets created for decommissioning requests. Further to identifying the factors affecting delays in the end-to-end decommissioning process, the business objective is to provide a roadmap for Cost savings beneficial by optimizing the process thereby reducing delays in the end-to-end process.
 
